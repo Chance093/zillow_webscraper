@@ -3,7 +3,7 @@ Scrapes listings on zillow
 
 
 # To do
-- [] Set up venv
-- [] Install selenium and set up
-- [] Create requirements.txt
+- [x] Set up venv
+- [x] Install selenium and set up
+- [x] Create requirements.txt
 - [] Create scrape_zillows def
